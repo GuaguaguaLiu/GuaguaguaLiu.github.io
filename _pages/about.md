@@ -80,7 +80,7 @@ My research interest includes neural machine translation and computer vision. I 
 Object Tracking for Dynamic Environment](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) in **IEEE Robotics and Automation Letters**, vol.
 8, no. 2, pp. 344-360, 2021.
 
-Pengkun Zhou*, **Yuzhen. Liu*(equal-contribution)**, Ziyang Meng
+Pengkun Zhou\*, **Yuzhen. Liu\***, Ziyang Meng (\*equal contribution)
 
 <!-- [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=t5gN6kIAAAAJ&citation_for_view=t5gN6kIAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - PointSLOT
@@ -152,7 +152,7 @@ Pengkun Zhou, **Yuzhen Liu**, Pengfei Gu, Jiacheng Liu, Ziyang Meng.
 
 [Point cloud registration leveraging structural regularity in Manhattan world](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) in **IEEE Robotics and Automation Letters & IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, vol. 7, no. 3, pp. 7888-7895, 2022.
 
-Pengkun Zhou, **Yuzhen Liu**, Pengfei Gu, Jiacheng Liu, Ziyang Meng.
+Jiacheng Liu, **Yuzhen Liu**, Ziyang Meng.
 
 <!-- [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=t5gN6kIAAAAJ&citation_for_view=t5gN6kIAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - Point registration.
@@ -184,8 +184,8 @@ Pengkun Zhou, **Yuzhen Liu**, Pengfei Gu, Jiacheng Liu, Ziyang Meng.
 - 09/2017 - 08/2022, Ph.D. in Precision Instrument, Department of Precision Instrument, Tsinghua University, Beijing, China.
 - 09/2013 - 07/2017, Bachelor's in Artificial Intelligence and Automation, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, Wuhan, China.
 
-<!-- - 2017年9月 - 2022年8月, 博士, 清华大学精密仪器系, 中国北京
-- 2013年9月 - 2017年7月，本科, 华中科技大学人工智能与自动化学院, 中国武汉 -->
+- 2017年9月 - 2022年8月, 博士, 清华大学精密仪器系, 中国北京
+- 2013年9月 - 2017年7月，本科, 华中科技大学人工智能与自动化学院, 中国武汉
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
