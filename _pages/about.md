@@ -32,8 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Visual Object Tracking and Servoing Control of a Nano-Scale Quadrotor: System, Algorithms, and Experiments](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) in **IEEE/CAA Journal of Automatica Sinica**, vol.
-8, no. 2, pp. 344-360, 2021.
+[Visual Object Tracking and Servoing Control of a Nano-Scale Quadrotor: System, Algorithms, and Experiments](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) in **IEEE/CAA Journal of Automatica Sinica**, vol.8, no. 2, pp. 344-360, 2021.
 
 **Yuzhen Liu**, Ziyang Meng, Yao Zou, Ming Cao
 
@@ -46,8 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Online Temporal Calibration Based on Modified Projection Model for Visual-Inertial Odometry](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) in **IEEE Transactions on Instrumentation and Measurement**, vol.
-8, no. 2, pp. 344-360, 2021.
+[Online Temporal Calibration Based on Modified Projection Model for Visual-Inertial Odometry](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) in **IEEE Transactions on Instrumentation and Measurement**, vol. 69, no. 7, pp.5197-5207, 2020.
 
 **Yuzhen Liu**, Ziyang Meng
 
@@ -62,7 +60,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL & ICRA2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Switching-Coupled Backend for Simultaneous Localization and Dynamic Object Tracking](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) in **IEEE Robotics and Automation Letters & 2021 IEEE International Conference on Robotics and Automation (ICRA)**, , vol. 6, no. 2, pp. 1296-1303, 2021.
+[A Switching-Coupled Backend for Simultaneous Localization and Dynamic Object Tracking](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) in **IEEE Robotics and Automation Letters & 2021 IEEE International Conference on Robotics and Automation (ICRA)**, vol. 6, no. 2, pp. 1296-1303, 2021.
 
 **Yuzhen Liu**, Jiacheng Liu, Yun Hao, Bowen Deng, Ziyang Meng
 
@@ -77,8 +75,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 
 [PointSLOT: Real-Time Simultaneous Localization and
-Object Tracking for Dynamic Environment](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) in **IEEE Robotics and Automation Letters**, vol.
-8, no. 2, pp. 344-360, 2021.
+Object Tracking for Dynamic Environment](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) in **IEEE Robotics and Automation Letters**, vol. 8, no.5, pp. 2645-2652, 2023.
 
 Pengkun Zhou\*, **Yuzhen. Liu\***, Ziyang Meng (\*equal contribution)
 
@@ -92,8 +89,7 @@ Pengkun Zhou\*, **Yuzhen. Liu\***, Ziyang Meng (\*equal contribution)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICARCV2018</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Visual Object Tracking For A Nano-scale Quadrotor](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) in **15th International Conference on Control, Automation, Robotics and Vision (ICARCV2018)**, vol.
-8, no. 2, pp. 344-360, 2021.
+[Visual Object Tracking For A Nano-scale Quadrotor](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) in **15th International Conference on Control, Automation, Robotics and Vision (ICARCV2018)**, pp. 843-847.
 
 **Yuzhen. Liu**, Ziyang Meng
 
@@ -121,7 +117,7 @@ Zixuan Wang, Yao Zou, **Yuzhen Liu**, Ziyang Meng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NMI</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Lifelike Agility and Play in Quadrupedal Robots using Reinforcement Learning and Generative Pre-trained Models](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) accepted by **Nature Machine Intelligence**.
+[Lifelike Agility and Play in Quadrupedal Robots using Reinforcement Learning and Generative Pre-trained Models](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) accepted by **Nature Machine Intelligence**, 2024.
 
 Lei Han\*, Qingxu Zhu\*, Jiapeng Sheng\*, Chong Zhang\*, Tingguang Li\*, Yizheng Zhang\*, He Zhang\*, **Yuzhen Liu**, Cheng Zhou, Rui Zhao, Jie Li, Yufeng Zhang, Rui Wang, Wanchao Chi, Xiong Li, Yonghui Zhu, Lingzhu Xiang, Xiao Teng, Zhengyou Zhang. (\*Equal Contribution)
 
